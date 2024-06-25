@@ -1,0 +1,52 @@
+SiteMap of new Website
+
+
+pages:-
+services
+
+- MEAN Stack Development
+- MERN Stack Development
+- Angular JS Development
+- React JS Development
+- Node JS Development
+- Ruby On Rails Development
+- Python Django Development
+portfolio
+about
+contact
+Team
+Locations
+pricing - https://creologic.ca/pricing/, 
+Clients
+reviews
+faq - https://creologic.ca/faq/
+GET A QUOTE - https://creologic.ca/request-a-quote/
+
+
+features:-
+paralax effects
+live chat
+animations
+amazing hover effects
+
+
+services type idea
+https://www.iqlance.com/
+
+
+site design ideas - 
+https://attractmedia.ca/saskatoon-web-design/
+https://www.pixelarmy.ca/
+
+
+https://in.pinterest.com/pin/droit-dark-mode-plugin-landing-page--735916395374153458/
+https://in.pinterest.com/pin/upwork-freelancer--1061371837158782893/
+https://in.pinterest.com/pin/281897257917955147/
+https://in.pinterest.com/pin/267682771591034650/
+https://dribbble.com/shots/18420796-Website-UI
+
+7 sies best
+https://www.youtube.com/watch?v=5O0YDHiosD0
+
+react website development page idea -
+https://evincedev.com/react-js-development-services/
